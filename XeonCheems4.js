@@ -3,10 +3,10 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 NIPUNA Bot Inc. lione Bot MD
-//Thank you to Lord NIPUNA, Family and Myself
+//© 2022 𝚂𝙸𝙻𝙴𝙽 Bot Inc. lione Bot MD
+//Thank you to Lord 𝚂𝙸𝙻𝙴𝙽. Family and Myself
 //════════════════════════════//
-      // NIPUNA
+      // 𝚂𝙸𝙻𝙴𝙽
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
@@ -216,7 +216,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
         const isCmd = body.startsWith(prefix)
         const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
         const args = body.trim().split(/ +/).slice(1)
-        const pushname = m.pushName || "No Name"
+        const pushname = m.pushName || "𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃"
         const botNumber = await XeonBotInc.decodeJid(XeonBotInc.user.id)
         const isCreator = [botNumber, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
         const itsMe = m.sender == botNumber ? true : false
