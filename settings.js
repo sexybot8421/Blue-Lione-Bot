@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
+global.OWNER_REACT = '🍼'
 global.REACT_NUMBER = '94775978468'
 
 //aumto functioner
@@ -44,9 +44,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['775978468']
 global.ownertag = '775978468' //ur tag number
 global.botname = '🧸𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃🧸' //ur bot name
-global.linkz = "https://github.com/sexybot8421/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/sexybot8421/Blue-Lione-Bot.git" //ur website to be displayed
-global.botscript = 'https://github.com/sexybot8421/Blue-Lione-Bot.git' //script link
+global.linkz = "https://youtube.com/channel/UCuW0pLb-SC4v4EoELkNqD5w" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCuW0pLb-SC4v4EoELkNqD5w" //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCuW0pLb-SC4v4EoELkNqD5w' //script link
 global.reactmoji = "👻" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "🧸𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃🧸 Stickers\🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸 " //ur sticker watermark packname
