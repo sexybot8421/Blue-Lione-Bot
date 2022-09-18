@@ -1100,7 +1100,7 @@ const latensie = speed() - timestampe
 │𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
 │𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
 │𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
-│𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
+│𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : *🧸SILEN BOT🧸*
 │𝗢𝘄𝗻𝗲𝗿 𝗡𝗼. : ${global.owner}
 │𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
 │𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
@@ -1286,7 +1286,7 @@ if (q.includes('--help')) return reply(examkosong)
     let buttonMessage = {
       image: { url: './storage/image/tambang.jpg' },
       caption: caption,
-      footer: '𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾 𝙱𝙾𝚃',
+      footer: 'SILEN BOT',
       buttons: buttons,
       headerType: 4
      }
@@ -1521,7 +1521,7 @@ if (q.includes('--help')) return reply(examkosong)
     let buttonMessage = {
       image: { url: image },
       caption: teksehmazeh,
-      footer: '𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾 𝙱𝙾𝚃',
+      footer: '𝚂𝙸𝙻𝙴𝙽 𝙱𝙾𝚃',
       buttons: buttons,
       headerType: 4
      }
